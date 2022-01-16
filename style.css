@@ -1,0 +1,70 @@
+body {
+    background-color: #2f3035;
+    background-image: url(images/4d9c5e8208b16cf05e6a86be434f031.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+     margin-left: auto;
+     margin-right: auto;
+     width: 1024px;
+ }
+header {
+   
+    height: 118px;
+    width: 1024px;
+    text-align: center;
+}
+nav {
+    background-color: rgba(104, 93, 93, 0.602);
+    height: 40px;
+    text-align: center;
+}
+main {
+    
+    height: 500px;
+    
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+footer {
+    
+    height: 80px;
+   text-align: center;
+    
+
+}
+h1{
+    font-size: 84px;
+    color: rgb(172, 5, 39);
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 18px;
+    color: rgb(163, 7, 38);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+a {
+ font-size: 20px;
+ color: rgb(24, 20, 233);
+ font-family: Arial, Helvetica, sans-serif;
+ 
+
+}
+footer p {
+    font-size: 18px;
+}
+nav a {
+    text-decoration: none ;
+    color: rgba(93, 5, 46, 0.829);
+    font-size: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.maps{
+    padding-bottom: 100px;
+}
